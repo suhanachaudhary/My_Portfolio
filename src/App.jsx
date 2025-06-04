@@ -1,6 +1,7 @@
 
 import './index.css';
 import About from './pages/About.jsx';
+import Experience from './pages/Experience.jsx';
 import Home from './pages/Home.jsx';
 import Interest from './pages/Interest.jsx';
 import Navbar from './pages/Navbar.jsx';
@@ -17,6 +18,7 @@ function App() {
       <About/>
       <Skills/>
       <Projects/>
+      <Experience/>
       <Interest/>
     </div>
   );

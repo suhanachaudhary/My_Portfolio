@@ -8,6 +8,7 @@ function Interest() {
    
       <div className="interest">
       <button type="button" className="btn btn-light">JAVA DEVELOPER</button>
+      <button type="button" className="btn btn-light">FRONTEND DEVELOPER</button>
       <button type="button" className="btn btn-light">MERN STACK DEVELOPER</button>
       <button type="button" className="btn btn-light">SOFTWARE DEVELOPER</button>
       <button type="button" className="btn btn-light">SOFTWARE ENGINEER</button>

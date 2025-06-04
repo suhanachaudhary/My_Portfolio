@@ -182,18 +182,18 @@ about section styling */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin-top: 50px;
 
     .frontend{
       background-color: transparent;
       border: none;
       border-radius: 25px;
-      padding-top: 1rem;
-      height: 230px;
-      width: 22.5rem;
+      height: 200px;
+      width: 19.5rem;
       margin: 6px;
       margin-bottom: 20px;
       box-shadow: 4px 8px 15px #2c0242;
+      transform: skew(-20deg); /* Skew to create parallelogram shape */
+  overflow: hidden;
     
       h4{
         color: #fff;
@@ -227,7 +227,7 @@ h2{
   flex-wrap: wrap;
   
   .card{
-    height: 450px;
+    height: 470px;
     width: 340px;
     background-color: #cc89f0;
     color: #fff;
@@ -305,4 +305,23 @@ h2{
     font-size: 1.1rem;
   }
 }
+
+
+.experience-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  position: relative;
+}
+
+.experience-separator {
+  width: 60%;           /* Responsive width */
+  border: none;
+  border-top: 2px solid #2c0242;
+  margin: 20px auto;    /* Center horizontally with vertical spacing */
+  order: 2;             /* Make sure it appears between cards */
+}
+
 

@@ -46,7 +46,7 @@ function About() {
               Additionally, I am proficient in using tools like MS Word, MS Excel, and VS Code. With a constant thirst for knowledge, I actively learn new technologies.
             </p>
             
-          <a href="/resume_suhana11.pdf"  className="btn btnHome btn-outline-info">Get My Resume</a>
+          <a href="https://drive.google.com/file/d/180RT_oUTcUbKFG-L6vR9nC09AG1CPlv2/view"  className="btn btnHome btn-outline-info">Get My Resume</a>
           </div>
         </div>
       </div>

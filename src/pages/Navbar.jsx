@@ -5,7 +5,7 @@ function Navbar() {
     <>
         <nav className="navbar navbar-expand-lg navbar-light bg-transparent sticky-top navbarHeight mb-4">
             <div className="container">
-                <a className="navbar-brand logoName" href="#home">Programmer</a>
+                <a className="navbar-brand logoName" href="#home">Technologist</a>
 
                 <button className="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
@@ -17,6 +17,7 @@ function Navbar() {
                         <a className="nav-a active mx-2" href="#about">About</a>
                         <a className="nav-a active mx-2" href="#skills">Skills</a>
                         <a className="nav-a active mx-2" href="#projects">Project</a>
+                        <a className="nav-a active mx-2" href="#experience">Experience</a>
                         <a className="nav-a active mx-2" href="#interests">Interest</a>
                     </div>
                 </div>
