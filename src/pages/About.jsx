@@ -37,16 +37,16 @@ function About() {
           <div className="card-body">
             <h2 className="card-title">About Me</h2>
             <p className="card-text">
-              I'm Suhana, a passionate computer science engineering student with a focus on Java development, MERN stack development, software development, and web development.
+              I'm Suhana, a passionate computer science engineering student with a focus on UI/UX developer, MERN stack development, software development, and web development.
             </p>
             <p className="card-text">
-              I have a strong command of programming languages like C, Java, JavaScript, and Python, which I utilize to build robust and efficient applications. I am skilled in frontend development using React.js and have expertise in backend development using Node.js. I have hands-on experience with databases like MongoDB and MySQL for efficient data storage and retrieval.
+              I have a strong command of programming languages like C, Java, JavaScript, which I utilize to build robust and efficient applications. I am skilled in frontend development using React.js and have expertise in backend development using Node.js. I have hands-on experience with databases like MongoDB and MySQL for efficient data storage and retrieval.
             </p>
             <p className="card-text">
-              Additionally, I am proficient in using tools like MS Word, MS Excel, and VS Code. With a constant thirst for knowledge, I actively learn new technologies.
+              Additionally, I am proficient in using tools like MS Word, MS Excel, and VS Code, Postman. With a constant thirst for knowledge, I actively learn new technologies.
             </p>
-            
-          <a href="https://drive.google.com/file/d/180RT_oUTcUbKFG-L6vR9nC09AG1CPlv2/view"  className="btn btnHome btn-outline-info">Get My Resume</a>
+
+            <a href="https://drive.google.com/file/d/1u0vBc1RInHjjwhtWAiRlpM04kNgVJVja/view?usp=drive_link" className="btn btnHome btn-outline-info">Get My Resume</a>
           </div>
         </div>
       </div>
